@@ -18,6 +18,8 @@ End-to-End Production-Grade Banking Data Pipeline on AWS
 ---
 ## 📌 Project ScreenShots!!
 
+<img width="1408" height="768" alt="Bank_De_ARCH" src="https://github.com/user-attachments/assets/24383b54-e6c9-4268-93a2-5d141b91fb95" />
+
 <img width="1366" height="768" alt="Apache Superset DB" src="https://github.com/user-attachments/assets/7b227ee0-35ac-4407-afe1-f01c9fd75bf9" />
 <img width="1366" height="768" alt="Apache Superset DB" src="https://github.com/user-attachments/assets/584c2374-5093-41f8-b6c1-9755763c7360" />
 
@@ -29,7 +31,7 @@ End-to-End Production-Grade Banking Data Pipeline on AWS
 <img width="1366" height="768" alt="PII Masking" src="https://github.com/user-attachments/assets/967e436c-49c7-4d5a-bf9e-04d72ca6bb5c" />
 
 <img width="1366" height="768" alt="KYC Status" src="https://github.com/user-attachments/assets/c257ffaa-f57a-422c-8850-febded182e22" />
-<img width="1408" height="768" alt="Bank_De_ARCH" src="https://github.com/user-attachments/assets/24383b54-e6c9-4268-93a2-5d141b91fb95" />
+
 
 <img width="1080" height="1888" alt="Screenshot from 2026-04-19 13-08-42" src="https://github.com/user-attachments/assets/11c00d81-5c81-4495-8533-6e68a120198c" />
 <img width="1080" height="1888" alt="Screenshot from 2026-04-19 13-24-27" src="https://github.com/user-attachments/assets/9784fe1c-2b09-41f1-a49d-66e7f70486a7" />
