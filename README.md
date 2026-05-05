@@ -22,8 +22,9 @@ End-to-End Production-Grade Banking Data Pipeline on AWS
 <img width="1366" height="768" alt="Apache Superset DB" src="https://github.com/user-attachments/assets/584c2374-5093-41f8-b6c1-9755763c7360" />
 <img width="1366" height="768" alt="Redshit" src="https://github.com/user-attachments/assets/e82be78d-5948-435b-9234-620df6dde38a" />
 <img width="1366" height="768" alt="Redshit DWH" src="https://github.com/user-attachments/assets/d278a1d4-66ad-4774-bd44-70d72a43a99f" />
-<img width="1366" height="768" alt="Screenshot from 2026-05-02 12-00-27" src="https://github.com/user-attachments/assets/967e436c-49c7-4d5a-bf9e-04d72ca6bb5c" />
+<img width="1366" height="768" alt="PII Masking" src="https://github.com/user-attachments/assets/967e436c-49c7-4d5a-bf9e-04d72ca6bb5c" />
 
+<img width="1366" height="768" alt="KYC Status" src="https://github.com/user-attachments/assets/c257ffaa-f57a-422c-8850-febded182e22" />
 
 ---
 
