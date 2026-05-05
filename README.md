@@ -5,12 +5,15 @@ End-to-End Production-Grade Banking Data Pipeline on AWS
 # 🏦 NeoBank AWS Data Engineering Pipeline
 ### End-to-End Production-Grade Banking Data Pipeline on AWS
 
-<img width="1408" height="768" alt="Bank_De_ARCH" src="https://github.com/user-attachments/assets/24383b54-e6c9-4268-93a2-5d141b91fb95" />
 [![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazon-aws)](https://aws.amazon.com)
 [![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)](https://python.org)
 [![Architecture](https://img.shields.io/badge/Architecture-Medallion-purple)](https://www.databricks.com/glossary/medallion-architecture)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Production_Ready-brightgreen)]()
+
+
+<img width="1408" height="768" alt="Bank_De_ARCH" src="https://github.com/user-attachments/assets/24383b54-e6c9-4268-93a2-5d141b91fb95" />
+
 
 ---
 
