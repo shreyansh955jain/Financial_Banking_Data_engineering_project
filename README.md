@@ -28,8 +28,11 @@ End-to-End Production-Grade Banking Data Pipeline on AWS
 <img width="1366" height="768" alt="Screenshot from 2026-05-01 10-44-13" src="https://github.com/user-attachments/assets/b0106a38-37a5-4037-8247-35fec207da24" />
 <img width="1366" height="768" alt="Screenshot from 2026-05-04 19-47-05" src="https://github.com/user-attachments/assets/b5376d30-caf0-4083-871e-89b3da927aa2" />
 
+<img width="1366" height="768" alt="Screenshot from 2026-05-04 19-47-14" src="https://github.com/user-attachments/assets/ee0ae301-3a08-4afe-b5df-7a7830a62806" />
+
+
 <img width="1366" height="768" alt="Redshit" src="https://github.com/user-attachments/assets/e82be78d-5948-435b-9234-620df6dde38a" />
-<img width="1366" height="768" alt="Redshit DWH" src="https://github.com/user-attachments/assets/d278a1d4-66ad-4774-bd44-70d72a43a99f" />
+
 <img width="1366" height="768" alt="PII Masking" src="https://github.com/user-attachments/assets/967e436c-49c7-4d5a-bf9e-04d72ca6bb5c" />
 
 <img width="1366" height="768" alt="KYC Status" src="https://github.com/user-attachments/assets/c257ffaa-f57a-422c-8850-febded182e22" />
